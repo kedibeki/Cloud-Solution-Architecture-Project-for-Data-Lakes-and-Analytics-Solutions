@@ -38,6 +38,7 @@ What will I do as a Cloud Solutions Architect?
 The company has tasked me with designing solutions for ingesting this data into their data lake, and each location (IoT sensors, database, and third party) will need its own ingestion solution. 
 &nbsp;
 
+
 From there, I will need to also design a solution for how to clean or transform the data so that it can be analyzed. The company currently uses Apache Hadoop-based software. When possible, they prefer to use similar technologies in the cloud so that they don’t need to retrain their analytics team on too many new technologies at one time. 
 &nbsp;
 
