@@ -8,7 +8,7 @@ Deploying Workloads on AWS
 <img src="https://github.com/kedibeki/Cloud-Solution-Architecture-Project-for-Data-Lakes-and-Analytics-Solutions/blob/main/Cover-%20Cloud%20Solution%20Architecture%20Project%20for%20Data%20Lakes%20and%20Analytic.jpg" alt=""/>
 </p>
 
-[Click On Here For My Full Presentation](https://github.com/kedibeki/Cloud-Solution-Architecture-Project-to-Deploy-Workloads-on-AWS/blob/main/Cloud%20Solution%20Architecture%20Project%20to%20Deploy%20Workloads%20on%20AWS.pdf)
+[Click On Here For My Full Presentation](https://github.com/kedibeki/Cloud-Solution-Architecture-Project-for-Data-Lakes-and-Analytics-Solutions/blob/main/Cloud%20Solution%20Architecture%20Project%20for%20Data%20Lakes%20and%20Analytics%20Solutions.pdf)
  
 <h2>
 Project Background
